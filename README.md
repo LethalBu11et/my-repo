@@ -1,4 +1,3 @@
-- # CoderAcademyAdmissionsTest
 + # Coder Academy Admissions Test
 + ## WHY?
 + Coding is hard, so is the Fast Track Bootcamp. 
